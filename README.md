@@ -1,6 +1,9 @@
 # TidyTuesday - Data Visualisation using R
 #TidyTuesday is a weekly data project that places emphasis on summarising and arranging data to make meaningful charts with tools in the tidyverse ecosystem using R programming language. This repository contains codes for my #TidyTuesday visualisation attempts. 
 
+## 15/12/2020 Week 51 Ninja Warrior :climbing: [(code)](https://github.com/nxrunning/Tidytuesdays/blob/Ninjawarrior/Ninjawarrior.R)
+![Ninjawarrior](https://github.com/nxrunning/Tidytuesdays/blob/Ninjawarrior/ninjawarrior.jpeg)
+
 ## 8/12/2020 Week 50 Women of 2020 :woman: [(code)](https://github.com/nxrunning/Tidytuesdays/blob/BBCWomen2020/BBCWomen2020.R)
 ![BBCWomen2020](https://github.com/nxrunning/Tidytuesdays/blob/BBCWomen2020/BBCWomen2020.jpeg)
 
