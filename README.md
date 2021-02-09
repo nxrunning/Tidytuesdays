@@ -1,6 +1,9 @@
 # TidyTuesday - Data Visualisation using R
 #TidyTuesday is a weekly data project that places emphasis on summarising and arranging data to make meaningful charts with tools in the tidyverse ecosystem using R programming language. This repository contains codes for my #TidyTuesday visualisation attempts. 
 
+## 2/2/2021 2021 Week 6 HBCU Enrollment :school: [(code)](https://github.com/nxrunning/Tidytuesdays/blob/HBCUEnrollment/HBCUEnrollment.R)
+![HBCUEnrollment](https://github.com/nxrunning/Tidytuesdays/blob/HBCUEnrollment/HBCUEnrollment.png)
+
 ## 26/1/2021 2021 Week 5 Plastic Pollution :wastebasket: [(code)](https://github.com/nxrunning/Tidytuesdays/blob/PlasticPollution/Plasticpollution.R)
 ![PlasticPollution](https://github.com/nxrunning/Tidytuesdays/blob/PlasticPollution/Plasticpollution.jpeg)
 
