@@ -1,6 +1,9 @@
 # TidyTuesday - Data Visualisation using R
 #TidyTuesday is a weekly data project that places emphasis on summarising and arranging data to make meaningful charts with tools in the tidyverse ecosystem using R programming language. This repository contains codes for my #TidyTuesday visualisation attempts. 
 
+## 18/5/2021 2021 Week 21 Ask a Manager Salary :moneybag: [(code)](https://github.com/nxrunning/Tidytuesdays/blob/Askamanager/Askamanager.R)
+![Askamanager](https://github.com/nxrunning/Tidytuesdays/blob/Askamanager/Askamanager.jpeg)
+
 ## 9/3/2021 2021 Week 11 Bechdel Test :film_strip: [(code)](https://github.com/nxrunning/Tidytuesdays/blob/Bechdeltest/Bechdeltest.R)
 ![BechdelTest](https://github.com/nxrunning/Tidytuesdays/blob/Bechdeltest/Bechdeltest.jpeg)
 
