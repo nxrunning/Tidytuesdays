@@ -72,7 +72,7 @@ combined_plot<-command_plot+response_plot+
   plot_layout(widths = c(2,1))+
   plot_annotation(title = "Frequency of top ten words in Star Trek",
                   subtitle = "<span style = 'color:#ba1e68'>Commands</span> vs <span style = 'color:#5643fd'>Responses</span>",
-                  caption = "Source: Speechinteraction.org | Visualisation: @nxrunning | #TidyTuesdays")&
+                  caption = "Source: Speechinteraction.org | Visualisation: @nxrunning | #TidyTuesday")&
   theme(plot.background = element_rect(fill = "#1d1135", color = "#1d1135"),
         plot.caption = element_text(colour = "#f7d967", hjust = 0.5, family = "rambla", size = 30),
         plot.title = element_text(colour = "#f7d967", family = "rambla", size = 50),
